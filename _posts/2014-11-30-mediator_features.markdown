@@ -30,19 +30,22 @@ Hi,
 #Progress so far
 
   I started of working on Annotation Plugin. Well most the code for Annotation
-  was already in there i had to add category to the annotation.
+  was already in there I had to add category to the annotation. Then the next
+  step was working on Annotation Plugin  Manager.
 
+  Then I was writing the test for Annotation Plugin and working.For which we created 
+  three test plugins to test if the getDefintionsForCategory() works properly. The
+  test had dependency on all of the build test modules as well as annoation plugin
+  If the test were to be succesfull all the modules had to be correct. Mean while 
+  while reviwing a Pull Request one of my mentors daveried() who happens to be
+  one of the core member media team. Raised a question to Do we actually need the
+  Category feild. So the discussion has been going about it look. I am keenly following
+  it and trying to find out what we can do about it now.
 
-
-  Then the next step was working on Annotation Plugin  Manager.
-
-
-  Then I was writing the test for Annotation Plugin and working. while reviwing
-  the a Pull Request one of my mentors daveried who has started the drupal8 
-  media intiative along with few members. Raised a question to
-
-
-
+  So as of now I am working Abstract out Editor Button config entity from the
+  Entity Embed module so that other modules can declare one easily. It involves
+  going trought the Entity Embeds code and mean while understanding it also
+  try to mat
 
 #Links
 This is an [example link](http://example.com/ "With a Title").
