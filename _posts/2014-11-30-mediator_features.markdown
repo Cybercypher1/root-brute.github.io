@@ -38,9 +38,9 @@ Hi,
   three test plugins to test if the getDefintionsForCategory() works properly. The
   test had dependency on all of the build test modules as well as annoation plugin
   If the test were to be succesfull all the modules had to be correct. Mean while 
-  while reviwing a Pull Request one of my mentors daveried() who happens to be
-  one of the core member media team. Raised a question to Do we actually need the
-  Category feild. So the discussion has been going about it look. I am keenly following
+  while reviwing a Pull Request one of my mentors daveried who happens to be
+  one of the core member media team. Raised a question 'Do we actually need the
+  Category feild'. So the discussion has been going about it look. I am keenly following
   it and trying to find out what we can do about it now.
 
   So as of now I am working Abstract out Editor Button config entity from the
