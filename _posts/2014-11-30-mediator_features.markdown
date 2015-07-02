@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Mediator Features"
+title:  "Way to go"
 date:   2015-07-02 13:00:25
-categories: Progress so far
+categories: mediator feature
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 #Mediator Formats and CSS features
 
