@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mediator Features"
+title:  "Way to go"
 date:   2014-07-02
 categories: mediator feature
 tags: featured
