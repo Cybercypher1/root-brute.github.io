@@ -4,7 +4,7 @@ title:  "Way to go"
 date:   2015-07-02
 categories: mediator feature
 tags: featured
-<!--- image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG -->
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 #Mediator Formats and CSS features
 
