@@ -4,6 +4,7 @@ title:  "Mediator Features"
 date:   2015-07-02 13:00:25
 categories: Progress so far
 tags: featured
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 #Mediator Formats and CSS features
 
