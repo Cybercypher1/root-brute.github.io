@@ -45,6 +45,6 @@ Hi,
 
   So as of now I am working Abstract out Editor Button config entity from the
   Entity Embed module so that other modules can declare one easily. It involves
-  going trought the Entity Embeds code .
+  going through the Entity Embeds code.
 
 
