@@ -8,7 +8,8 @@ image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 Hi,
 
-  This is a blog post I will mainting  as apart of my GSoC Project "Embed module API".
+  This is a blog post I will mainting  as apart of my Google Summer of Code
+  Project "Embed module API".
   I will start of by explainig what embed module is and why we need it and then
   briefly describe the progress I have made so far and what I am currently
   working on and I keep updating as the work progresses.
@@ -17,12 +18,12 @@ Hi,
 
   Embed module has its origin from the Entity Embed module which was also build
   as a part of GSoC Project in GSoC 2014. Entity Embed module allows Entity
-  to be embeded.It has certain API level plugins that can be abstracted out
-  to so that if the other modules wants to use them.
+  to be embeded. It has certain API level plugins that can be abstracted out
+  to so that if the other modules also wants to use them .
   Abstarcting  out the plugins lets the the module that wants to use the get
   only the code the need otherwise earlier they would have to get the whole
-  EntityEmbed module as a depenendecy and it only requires a part of it.When the
-  Project is complete it will provide a Embed Module Plugin which is not
+  EntityEmbed module as a depenendecy and it only requires a part of it now.
+  When the Project is complete it will provide a Embed Module Plugin which is not
   very functional by itself but it will provide a solid APIs to all other
   modules which aim to provide any kind of 'Embed' functionality
 
@@ -44,9 +45,6 @@ Hi,
 
   So as of now I am working Abstract out Editor Button config entity from the
   Entity Embed module so that other modules can declare one easily. It involves
-  going trought the Entity Embeds code and mean while understanding it also
-  try to mat
+  going trought the Entity Embeds code .
 
-#Links
-This is an [example link](http://example.com/ "With a Title").
 
